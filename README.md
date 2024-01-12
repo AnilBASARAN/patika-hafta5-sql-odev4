@@ -1,0 +1,1 @@
+# patika-hafta5-sql-odev4
